@@ -18,7 +18,7 @@
 
   * Posisi *spawn* pemain dan hantu diacak pada awal permainan (hantu tidak akan *spawn* terlalu dekat dengan pemain).
 
-* **Sistem Chest & Senjata (RNG):** Senjata tidak lagi berserakan, melainkan berada di dalam **Chest** yang muncul secara acak di lantai (maksimal 3 Chest dalam satu waktu). Sentuh Chest tersebut untuk mendapatkan senjata yang diacak secara otomatis.
+* **Sistem Chest & Senjata (RNG):** Senjata di dalam **Chest** yang muncul secara acak di lantai (maksimal 3 Chest dalam satu waktu). Sentuh Chest tersebut untuk mendapatkan senjata yang diacak secara otomatis.
 
 * **Visual Feedback:** Layar akan berkedip sedikit kemerahan saat pemain terkena serangan, dan musuh akan menampilkan gradien merah sesaat setelah tertembak.
 

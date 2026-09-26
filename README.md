@@ -1,5 +1,5 @@
 # GUNT (Ghost Hunt)
-
+Link Exe (goggle drive) : https://drive.google.com/drive/folders/1aAds6M-nNhvmbbDtbhPpww29et4LZfar?usp=drive_link
 **GUNT (Ghost Hunt)** adalah game *endless survival shooter* di mana pemain harus bertahan hidup dari kejaran hantu yang tiada akhir. Temukan **Chest** yang tersebar di area permainan untuk melakukan *roll* (acak) dan dapatkan senjata terbaikmu. Basmi hantu sebanyak mungkin untuk mengumpulkan skor tertinggi. Hati-hati, semakin banyak hantu yang kamu kalahkan, semakin sulit game ini!
 
 > *"Kamu terjebak dalam mimpi buruk, tapi anehnya... kamu menyukainya."*
